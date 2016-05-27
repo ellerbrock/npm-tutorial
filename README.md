@@ -1,6 +1,6 @@
 ![logo](https://github.frapsoft.com/top/npm-logo.png)  
 
-# Publishing NPM Packages for Developers [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# Publishing NPM Packages for Developers [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v101)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 Introduction how to [publish](https://docs.npmjs.com/getting-started/publishing-npm-packages) npm modules.  
 
@@ -107,9 +107,6 @@ A better way to is to mark the package as deprecated
 * <http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do>
 * <http://semver.org/>
 * <http://choosealicense.com/>
-
-
-
 ### Contact / Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
