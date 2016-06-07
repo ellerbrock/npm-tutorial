@@ -95,7 +95,7 @@ npm publish ./
 
 If you don't want something to install by default
 
-`npm publish ./ --tag beta` <<https://docs.npmjs.com/cli/publish>
+`npm publish ./ --tag beta` <https://docs.npmjs.com/cli/publish>
 
 If you published a bugfix as v1.0.7 and need to set v1.1.3 back to latest
 
