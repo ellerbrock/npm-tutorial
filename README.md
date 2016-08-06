@@ -12,6 +12,7 @@ Introduction how to [publish](https://docs.npmjs.com/getting-started/publishing-
 - [NPM Module Best Practices](https://github.com/mattdesl/module-best-practices)
 - [Faster & Cleaner Module Workflow](https://mattdesl.svbtle.com/faster-and-cleaner-modules)
 - [Getting Started with Node and NPM](https://github.com/Microsoft/nodejs-guidelines/blob/master/getting-started.md)
+- [Writing cross-platform Node.js](http://shapeshed.com/writing-cross-platform-node/)
 - [Choosing a licence for your Open Source Project](https://github.com/ellerbrock/tutorial-choosing-open-source-licence)
 - [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
