@@ -1,8 +1,18 @@
 ![logo](https://github.frapsoft.com/top/npm-logo.png)
 
-# Publishing NPM Packages for Developers [![Build Status](https://travis-ci.org/ellerbrock/publishing-npm-packages.svg?branch=master)](https://travis-ci.org/ellerbrock/publishing-npm-packages) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+# npm Workflow
+## Development, Build and Deployment
 
-Introduction how to [publish](https://docs.npmjs.com/getting-started/publishing-npm-packages) npm modules.
+[![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=101)](https://github.com/ellerbrock/javascript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+
+
+## Status
+
+[![Deadlink Test](https://travis-ci.org/ellerbrock/publishing-npm-packages.svg?branch=master)](https://travis-ci.org/ellerbrock/publishing-npm-packages) 
+
+**Info:** Greeen Build Status means there should be no Deadlinks in this List.<br>
+You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner).
+
 
 ## Resources
 
@@ -24,6 +34,7 @@ Introduction how to [publish](https://docs.npmjs.com/getting-started/publishing-
 -   [Creating Node.js modules](https://docs.npmjs.com/getting-started/creating-node-modules)
 -   [How to write Node.js Modules](http://www.hacksparrow.com/how-to-write-node-js-modules.html)
 -   [module-generator](https://github.com/hughsk/module-generator)
+-   [npmignore](https://www.npmjs.com/package/npmignore)
 
 ## Node.js Installation
 
@@ -124,16 +135,12 @@ Its considered bad behavior to remove versions of a library others depending ong
 <https://docs.npmjs.com/cli/deprecate>
 
 
-### Contact / Social Media
+### Social Media
 
 *Get the latest News about Web Development, Open Source, Tooling, Server & Security*
 
 [![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
 
-### Development by
-
-Developer / Author: [Maik Ellerbrock](https://github.com/ellerbrock/)  
-Company: [Frapsoft](https://github.com/frapsoft/)
 
 ### License 
 
