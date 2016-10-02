@@ -91,8 +91,7 @@ Then create a `package.json` and publish it:
 
     npm publish ./
 
-<https://docs.npmjs.com/files/package.json><br>
-<http://browsenpm.org/package.json>
+<https://docs.npmjs.com/files/package.json>
 
 ## User Managment
 
