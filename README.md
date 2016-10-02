@@ -27,7 +27,6 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 -   [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 -   [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 -   [Awesome TypeScript](https://github.com/ellerbrock/awesome-typescript)
--   [Interactive Guide for exploring package.json](http://browsenpm.org/package.json)
 -   [10 Cool Things You Probably didn't realize npm could do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
 -   [Semantic Versioning](http://semver.org/)
 -   [Creating and Publishing a Node.js Module](https://quickleft.com/blog/creating-and-publishing-a-node-js-module/)
